@@ -1,19 +1,14 @@
-# MongoDb - Aula 02 - Exercício
+# MongoDb - Aula 03 - Exercício
 
-1. Crie uma database chamada be-mean-pokemons;
-2. Liste quais databases você possui nesse servidor;
-3. Liste quais coleções você possui nessa database;
-4. Insira pelo menos 5 pokemons **A SUA ESCOLHA** utilizando o mesmo padrão de campos utilizado: name, description, attack, defense e height;
-5. Liste os pokemons existentes na sua coleção;
-6. Busque um pokemon a sua escolha, que acabou de ser inserido, e armazene-o em uma variável chamada `poke`;
-7. Modifique sua `description` e salvê-o
-
+1. Liste todos Pokemons com a altura **menor que** 0.5;
+1. Liste todos Pokemons com a altura **maior ou igual que** 0.5;
+1. Liste todos Pokemons com a altura **menor ou igual que** 0.5 **E** do tipo grama;
 
 
 ## Estrutura
 
 ```md
-# MongoDB - Aula 02 - Exercício
+# MongoDB - Aula 03 - Exercício
 autor: SEU NOME
 
 ## Listagem das databases (passo 2)
