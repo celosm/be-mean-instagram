@@ -1,11 +1,46 @@
+
+# Execícios mandem aqui [https://github.com/Webschool-io/be-mean-instagram-mongodb-excercises](https://github.com/Webschool-io/be-mean-instagram-mongodb-excercises)
+
+## O Professor
+
+Olá meu nome é Jean Carlo Nascimento, mais conhecido como **Suissa**, por favor me chame assim, já trabalho com Web uns 10 anos profissionalmente e há mais de 3 apenas com JavaScript.
+
+Criei o Be MEAN há mais de 2 anos, sendo o único curso presencial até início de 2015 e o único **AO VIVO** quase bimensalmente.
+
+Por incrível que pareça eu sou professor há mais de 5 anos, onde minha primeira aula foi em uma **faculdade**, [FAFIT](http://www.fafit.com.br/), quando eu estava iniciando minha pós em Desenvolvimento Web em Ponta Grossa, Paraná.
+
+Hoje dou aula em pós-graduações e nem tenho minha pós finalizada, louco né?
+
+Mas já avisando será a última pós que darei aula será a da minha cidade onde ministrarei a disciplina de NoSQL <3.
+
+Nas outras era sempre HTML5/CSS3 e JavaScript, só faltava um de Banco de Dados NoSQL que eu amo, acho que fecharei com chave de ouro e me focarei única exclusivamente à faculdade web que desejo criar **para a Webschool.io**
+
+
+## A Aula
+
+A aula segue um grande *workflow* até ser divulgada:
+
+1. Resolução do exercício da aula anterior;
+2. Gravação da resolução do exercício;
+3. Criação do material na apostila;
+4. Execução dos códigos para confirmação;
+5. Criação do conteúdo dos slides;
+6. Gravação da aula;
+7. Edição da aula;
+8. Upload da aula;
+9. Divulgação do link.
+
+### Início
+
+**Sempre as 22 horas com pelo menos 1 hora de chat ao vivo com o professor.**
+
 # Roteiro
 
-# NÃO MANDE MAIS OS EXERCÍCIOS AQUI!!!
 
 ## Duração
-- Be MEAN (100 horas)
-    + MEAN (40 horas)
-        * MongoDB (5 horas)
+- Be MEAN (101 horas)
+    + MEAN (41 horas)
+        * MongoDB (6 horas)
         * Node.js (20 horas)
         * AngularJs (15 horas)
     + Frontend (15 horas)
@@ -32,8 +67,8 @@
 
 ##  Módulo MongoDB | 09.11 a 22.11
 
-- **Aula 00 | 08.11**
-    + Apresentação do Be MEAN 
+- **Aula 00 | 08.11** Vídeo: [https://www.youtube.com/watch?v=-ccU_-OIka4](https://www.youtube.com/watch?v=-ccU_-OIka4)
+    + Apresentação do Be MEAN
         * Quem eu sou?
         * O que é a Webschool.io?
         * O que é o Be MEAN?
@@ -42,13 +77,13 @@
         * Qual a duração do Be MEAN?
         * Quando e como serão enviados os brindes?
         * Como serão os cursos dos prêmios?
-- **Aula 01 | 9.11**
+- **Aula 01 | 9.11** Vídeo: [https://www.youtube.com/watch?v=leYxsEAL_yY](https://www.youtube.com/watch?v=leYxsEAL_yY)
     + Módulo MongoDB
         * Teoria
             - NoSQL
             - MongoDB
         * Instalação
-- **Aula 02 | 10.11**
+- **Aula 02 | 10.11** Vídeo: [https://www.youtube.com/watch?v=PaNVk0V2UNI](https://www.youtube.com/watch?v=PaNVk0V2UNI)
     + Módulo MongoDB
         * Cliente
             - use database
@@ -57,29 +92,39 @@
         * CRUD
             - insert
             - save
-- **Aula 03 | 10.11**
+- **Aula 03 | 10.11** Vídeo: [https://www.youtube.com/watch?v=cIHjA1hyPPY](https://www.youtube.com/watch?v=cIHjA1hyPPY)
     + Módulo MongoDB
         * CRUD
-            - find
-            - findOne
-        * Paginação
-        * Índices
-- **Aula 04 | 11.11**
+            - find  & findOne
+                + Operadores Aritméticos
+                + Operadores Lógicos
+                + Operadores "Existênciais"
+- **Aula 04 - Parte 1 | 16.11**
     + Módulo MongoDB
         * CRUD
             - update
-            - remove
-            - drop
-- **Aula 05 | 12.11**
+- **Aula 04 - Parte 2 | 17.11**
     + Módulo MongoDB
-        * Aggregation
+        * CRUD
+            - update
+                + options
+            - find
+                + Operadores deArray
+- **Aula 05 | 18.11**
+    + Módulo MongoDB - Professor: [William Bruno](https://github.com/wbruno)
+    	* distinct
+        * group
+        * Aggregation Framework
+- **Aula 06 | 19.11**
+    + Módulo MongoDB
+        * Modelagem
         * Users and Passwords
         * Replica
         * Sharding
         * GridFs
         * Robomongo
 - **PROJETO**
-	+ de 14.11 a 22.11
+	+ **de 20.11 a 30.11**
 
 ##  Módulo Node.js | 23.11 a 20.12
 
